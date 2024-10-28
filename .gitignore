@@ -1,0 +1,30 @@
+# Ignore Jekyll build output
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# Ignore Ruby dependencies and logs
+.bundle/
+vendor/
+Gemfile.lock
+*.gem
+log/
+
+# Ignore temporary or system files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*.swn
+.idea/
+.vscode/
+*.bak
+*~
+
+# Ignore GitHub Actions workflow logs
+*.log
+.github/workflows/*.log
+
+# Ignore Node.js dependencies if using npm packages (optional)
+node_modules/
