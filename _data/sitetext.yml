@@ -130,8 +130,8 @@ en: &DEFAULT_EN
             icon: fab fa-linkedin-in
 
   contact:
-    title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
+    title: "Contactaza-ne"
+    text: "0747 558 975"
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."
