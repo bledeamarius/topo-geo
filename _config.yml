@@ -17,7 +17,7 @@ remote_theme: raviriley/agency-jekyll-theme
 url: "https://bledeamarius.github.com" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "/topo-geo" # the subpath of your site, e.g. /blog
 
-title: TopoGeo
+title: Topoconstruct
 email: ivanciuc.iuliu@gmail.com #this is also the email contact forms will go to
 description: "O descriere misto"
 author: Iuliu Ivanciuc
