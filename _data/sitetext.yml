@@ -108,22 +108,22 @@ en: &DEFAULT_EN
         role: "CEO"
         image: assets/img/team/iuliu_ivanciuc.jpg
         social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
+          # - url: https://twitter.com
+          #   icon: fab fa-twitter
           - url: https://www.facebook.com/ivanciuc.iuliu.3
             icon: fab fa-facebook-f
-          - url: https://linkedin.com
+          - url: https://www.linkedin.com/in/iuliu-stefan-ivanciuc-965855140/
             icon: fab fa-linkedin-in
       - name: "Ion Turda"
         role: "Co-CEO"
         image: assets/img/team/ion_turda.jpg
         social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
+          # - url: https://twitter.com
+          #   icon: fab fa-twitter
           - url: https://www.facebook.com/cazare.casa.maria
             icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
+          # - url: https://linkedin.com
+          #   icon: fab fa-linkedin-in
       # - name: "Gagicile din BM"
       #   role: "Secretare"
       #   image: assets/img/team/500x500.jpg
