@@ -115,7 +115,7 @@ en: &DEFAULT_EN
           - url: https://www.linkedin.com/in/iuliu-stefan-ivanciuc-965855140/
             icon: fab fa-linkedin-in
       - name: "Ion Turda"
-        role: "Co-CEO"
+        role: "CEO"
         image: assets/img/team/ion_turda.jpg
         social:
           # - url: https://twitter.com
