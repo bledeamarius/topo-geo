@@ -21,15 +21,21 @@ en: &DEFAULT_EN
     text: "Punem ce vrei tu aici"
     section: services
     list:
-      - title: "Masuratori"
+      - title: "Cadastru"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
       - title: "Drona"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+      # - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
+      #   desc: "Your description here, full **Markdown** support"
+      #   icon: fab fa-markdown
+      - title: "Scanari 3D"
+        desc: "tbd"
+        icon: "tbd"
+      - title: "Topografie inginereasca"
+        desc: "tbd"
+        icon: "tbd"
 
   portfolio:
     title: "Portfolio"
