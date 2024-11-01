@@ -13,10 +13,11 @@ fonts_urls:
   # - "https://fonts.googleapis.com/css?family=Kaushan+Script"
   # - "https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic,700italic"
   - "https://fonts.googleapis.com/css?family=Roboto:400,100,300,700"
+  - "https://fonts.googleapis.com/css?family=Pacifico"
 
 # Set custom fonts
 fonts:
-  - name: "Roboto"
+  - name: "Pacifico"
     for: "navbar-brand"
   # - name: "Kaushan Script"
   #   for: "script"

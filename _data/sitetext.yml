@@ -12,7 +12,7 @@
 en: &DEFAULT_EN
   header:
     title: Welcome Iuliucu!
-    text: Iti place?
+    text: Ar trebui ceva cu fundal mai negrut
     button: Tell Me More
     buttonlink: "#services"
 
