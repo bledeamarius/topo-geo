@@ -106,7 +106,7 @@ en: &DEFAULT_EN
     people:
       - name: "Iuliu Ivanciuc"
         role: "CEO"
-        image: assets/img/team/1.jpg
+        image: assets/img/team/iuliu_ivanciuc.jpg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
@@ -114,13 +114,13 @@ en: &DEFAULT_EN
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Ionica Turda"
+      - name: "Ion Turda"
         role: "Co-CEO"
-        image: assets/img/team/2.jpg
+        image: assets/img/team/ion_turda.jpg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
-          - url: https://facebook.com
+          - url: https://www.facebook.com/ivanciuc.iuliu.3
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
