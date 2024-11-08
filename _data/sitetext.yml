@@ -23,16 +23,16 @@ en: &DEFAULT_EN
     list:
       - title: "Cadastru"
         desc: "Avem capacitatea de realizarea a lucrarilor topografice legate de domeniul cadastrului si nu numai. Printre aceste lucrari putem sa amintim intabulari, actualizari date tehnice, alipiri/dezlipiri, planuri de situatie, indetificari cadastrale, expertize tehnice extrajudiciare.."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+        icon: fas fa-compass-drafting #find more at https://fontawesome.com/icons
       - title: "UAV"
         desc: "Incercam sa eficientizam fluxul de lucru, astfel uneori este necesara utilizarea aparatelor de tip UAV. Utilizant aceste aparate, putem genera ortofotoplanuri avand precizii foarte mari, scanari pentru zone greu accesibile fiind generat un nor de puncte 3D, precum si diferite studii legate de sanatatea culturilor prin utilizarea camerelor NDVI."
-        icon: fas fa-laptop
+        icon: fas fa-solid fa-plane
       # - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
       #   desc: "Your description here, full **Markdown** support"
       #   icon: fab fa-markdown
       - title: "Scanari 3D"
         desc: "Trebuie sa profitam de faptul ca tehnologia este de partea noastra. Diferitele proiecte cer diferite metode de lucru. Pentru rapiditate si flux de lucru simplificat avem posibilitatea scanarii cu aparate mobile lidar, iar pentru precizie si grad ridicat de detaliere utilizam scanere laser 3D. In functie de cerintele beneficiarului, adaptam tehnicile utilizate."
-        icon: "tbd"
+        icon: fas fa-solid fa-barcode
       - title: "Topografie inginereasca"
         desc: "Asiguram transpunerea proiectelor dumneavostra de pe hartie in teren. Fie ca este vorba despre o limita de proprietate, axele unui construtii uni-familiare sau o constructie de dimensiuni impresionante, avem posibilitatea de a asigura asistenta topografica in santier pentru toate etapele constructiei, cat si verificari ulterioare dupa finalizarea constructiei legate de urmarirea comportarii in timp a elementelor structural."
         icon: fas fa-ruler-combined
