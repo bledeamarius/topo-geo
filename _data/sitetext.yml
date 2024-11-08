@@ -31,7 +31,7 @@ en: &DEFAULT_EN
       #   desc: "Your description here, full **Markdown** support"
       #   icon: fab fa-markdown
       - title: "Scanari 3D"
-        desc: "tbd"
+        desc: "Trebuie sa profitam de faptul ca tehnologia este de partea noastra. Diferitele proiecte cer diferite metode de lucru. Pentru rapiditate si flux de lucru simplificat avem posibilitatea scanarii cu aparate mobile lidar, iar pentru precizie si grad ridicat de detaliere utilizam scanere laser 3D. In functie de cerintele beneficiarului, adaptam tehnicile utilizate."
         icon: "tbd"
       - title: "Topografie inginereasca"
         desc: "tbd"
