@@ -23,7 +23,7 @@ en: &DEFAULT_EN
     list:
       - title: "Cadastru"
         desc: "Avem capacitatea de realizarea a lucrarilor topografice legate de domeniul cadastrului si nu numai. Printre aceste lucrari putem sa amintim intabulari, actualizari date tehnice, alipiri/dezlipiri, planuri de situatie, indetificari cadastrale, expertize tehnice extrajudiciare.."
-        icon: fas fa-compass-drafting 
+        icon: fas fa-compass
       - title: "UAV"
         desc: "Incercam sa eficientizam fluxul de lucru, astfel uneori este necesara utilizarea aparatelor de tip UAV. Utilizant aceste aparate, putem genera ortofotoplanuri avand precizii foarte mari, scanari pentru zone greu accesibile fiind generat un nor de puncte 3D, precum si diferite studii legate de sanatatea culturilor prin utilizarea camerelor NDVI."
         icon: fas fa-solid fa-plane
