@@ -22,7 +22,7 @@ en: &DEFAULT_EN
     section: services
     list:
       - title: "Cadastru"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        desc: "Avem capacitatea de realizarea a lucrarilor topografice legate de domeniul cadastrului si nu numai. Printre aceste lucrari putem sa amintim intabulari, actualizari date tehnice, alipiri/dezlipiri, planuri de situatie, indetificari cadastrale, expertize tehnice extrajudiciare.."
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
       - title: "Drona"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
