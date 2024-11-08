@@ -38,7 +38,7 @@ en: &DEFAULT_EN
         icon: fas fa-ruler-combined
       - title: "Evaluari imobiliare"
         desc: "Intr-o lume aflata constant in schimbare este necesar sa tinem pasul cu toate modificarile. Pretul imobilelor este dictat de raportul cerere si oferta, iar noi reusim sa va oferim un raport de evaluare actualizat la zi, care este ancorat la valoarea reala de tranzactionare a imobilului respectiv. Fie ca este vorba de un raport minimalist pentru o valoare estimative de piata sau un raport complex de evaluare, noi reusim sa furnizam in functie de nevoile dumneavostra."
-        icon: fas fa-money-check-dollar
+        icon: fas fa-money-check
 
   portfolio:
     title: "Portfolio"
