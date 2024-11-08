@@ -35,7 +35,7 @@ en: &DEFAULT_EN
         icon: "tbd"
       - title: "Topografie inginereasca"
         desc: "Asiguram transpunerea proiectelor dumneavostra de pe hartie in teren. Fie ca este vorba despre o limita de proprietate, axele unui construtii uni-familiare sau o constructie de dimensiuni impresionante, avem posibilitatea de a asigura asistenta topografica in santier pentru toate etapele constructiei, cat si verificari ulterioare dupa finalizarea constructiei legate de urmarirea comportarii in timp a elementelor structural."
-        icon: "tbd"
+        icon: fa-solid fa-ruler-combined
 
   portfolio:
     title: "Portfolio"
