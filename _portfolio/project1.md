@@ -8,8 +8,8 @@ additional_images:
 alt: Shirts on a hanger
 
 caption:
-  title: Threads
-  subtitle: Illustration
+  title: Plan de situatie
+  subtitle: Topografie si cadastru
   thumbnail: assets/img/portfolio/01-thumbnail.jpg
 ---
 Use this area to describe your project. **Markdown** supported. This entry (project1.md) uses links for the image sources. All other projects in the portfolio use local images. Both work just fine! Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
@@ -17,5 +17,5 @@ Use this area to describe your project. **Markdown** supported. This entry (proj
 {:.list-inline}
 - Date: August 2023
 - Client: Primaria Orasului Chisineu-Cris, jud. Arad
-- Category: Illustration
+- Category: Ridicare topografica
 
