@@ -41,7 +41,7 @@ en: &DEFAULT_EN
         icon: fas fa-money-check
       - title: "Proiectare"
         desc: "Realizam documentatii necesare pentru eliberarea certificatelor de urbanism, documentatii necesare pentru avize utilitati si pentru autorizarea lucrarilor de constructii."
-        icon: fas fa-house
+        icon: fas fa-building
 
   portfolio:
     title: "Portfolio"
