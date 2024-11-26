@@ -81,8 +81,8 @@ en: &DEFAULT_EN
     end: "Be Part <br> of Our <br> Story!"
 
   about:
-    title: "About Us"
-    text: "our story"
+    title: "Despre noi"
+    text: " "
     body: "TDA Topoconstruct este o firma care activeaza in domeniul constructiilor si al topografiei. Plaja serviciilor este una diversificata astfel incat incercam sa rezolvam nevoile clientilor nostrii intr-o metoda cat mai rapida si eficienta, pentru transpunerea proiectelor dumneavostra in realitate."
     section: about
 
