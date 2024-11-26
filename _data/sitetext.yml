@@ -34,13 +34,13 @@ en: &DEFAULT_EN
         desc: "Trebuie sa profitam de faptul ca tehnologia este de partea noastra. Diferitele proiecte cer diferite metode de lucru. Pentru rapiditate si flux de lucru simplificat avem posibilitatea scanarii cu aparate mobile lidar, iar pentru precizie si grad ridicat de detaliere utilizam scanere laser 3D. In functie de cerintele beneficiarului, adaptam tehnicile utilizate."
         icon: fas fa-solid fa-barcode
       - title: "Topografie inginereasca/asistenta tehnica"
-        desc: "Asiguram transpunerea proiectelor dumneavostra de pe hartie in teren. Fie ca este vorba despre o limita de proprietate, axele unui construtii uni-familiare sau o constructie de dimensiuni impresionante, avem posibilitatea de a asigura asistenta topografica in santier pentru toate etapele constructiei, cat si verificari ulterioare dupa finalizarea constructiei legate de urmarirea comportarii in timp a elementelor structural."
+        desc: "Asiguram transpunerea proiectelor dumneavostra de pe hartie in teren. Fie ca este vorba despre o limita de proprietate, axele unui construtii uni-familiare sau constructii industriale, avem posibilitatea de a asigura asistenta topografica in santier pentru toate etapele constructiei, cat si verificari ulterioare dupa finalizarea constructiei legate de urmarirea comportarii in timp a elementelor structural."
         icon: fas fa-ruler-combined
       - title: "Evaluari imobiliare"
         desc: "Intr-o lume aflata constant in schimbare este necesar sa tinem pasul cu toate modificarile. Pretul imobilelor este dictat de raportul cerere si oferta, iar noi reusim sa va oferim un raport de evaluare actualizat la zi, care este ancorat la valoarea reala de tranzactionare a imobilului respectiv. Fie ca este vorba de un raport minimalist pentru o valoare estimative de piata sau un raport complex de evaluare, noi reusim sa furnizam in functie de nevoile dumneavostra."
         icon: fas fa-money-check
       - title: "Proiectare constructii"
-        desc: "Realizam documentatii necesare pentru eliberarea certificatelor de urbanism, documentatii necesare pentru obtinerea avizelor necesare si pentru autorizarea lucrarilor de constructii."
+        desc: "Realizam documentatii tehnice necesare pentru eliberarea certificatelor de urbanism, documentatii necesare pentru obtinerea avizelor si pentru autorizarea lucrarilor de constructii."
         icon: fas fa-building
 
   portfolio:
