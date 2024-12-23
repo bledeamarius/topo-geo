@@ -3,7 +3,7 @@ title: Ridicari topografice si avizare plan de situatie
 subtitle: Prentru realizarea proiectelor de investitie este necesara identificarea zonei impreuna cu toate caracteristicile particulare. Pentru acest lucru, este necesar realizarea unui plan de situatie, in functie de dimensiunile proiectului si dimnesiunea zonei de studiu.
 image: assets/img/portfolio/01-full.jpg
 additional_images:
-  - assets/img/timeline/1 Plan de situatie Chisineu Cris1-full
+  - assets/img/timeline/1 Plan de situatie Chisineu Cris1
   - assets/img/timeline/1 Plan de situatie Chisineu Cris2-full.jpg
   - assets/img/timeline/1 Plan de situatie Chisineu Cris3-full.jpg
   - assets/img/timeline/1 Plan de situatie Chisineu Cris4-full.jpg
