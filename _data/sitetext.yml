@@ -120,7 +120,7 @@ en: &DEFAULT_EN
             icon: fab fa-facebook-f
           - url: https://www.linkedin.com/in/iuliu-stefan-ivanciuc-965855140/
             icon: fab fa-linkedin-in
-      - name: "Ion Turda"
+      - name: "Ioan Turda"
         role: "CEO"
         image: assets/img/team/ion_turda.jpg
         social:
