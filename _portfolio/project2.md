@@ -3,8 +3,8 @@ title: Project Name
 subtitle: Lorem ipsum dolor sit amet consectetur.
 image: assets/img/portfolio/02-full.jpg
 additional_images:
-  - assets/img/timeline/1 Plan de situatie Chisineu Cris1-full.jpg
-  - assets/img/timeline/1 Plan de situatie Chisineu Cris2-full.jpg
+  # - assets/img/timeline/1 Plan de situatie Chisineu Cris1-full.jpg
+  # - assets/img/timeline/1 Plan de situatie Chisineu Cris2-full.jpg
 alt: Keep Exploring
 
 caption:
