@@ -17,13 +17,13 @@ remote_theme: bledeamarius/agency-jekyll-theme
 url: "https://bledeamarius.github.com" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "/topo-geo" # the subpath of your site, e.g. /blog
 
-title: Topoconstruct
+title: TDA Topo Construct
 email: ivanciuc.iuliu@gmail.com #this is also the email contact forms will go to
 description: "O descriere misto"
 author: Iuliu Ivanciuc
-# logo:     #optional, defaults to site title
-# path: assets\img\clients\creative-market.jpg
-# height: 60 #height in px, defaults to 52px
+logo: #optional, defaults to site title
+  path: assets\img\logo-alb.png
+  # height: 60 #height in px, defaults to 52px
 
 locale: "en-US" # See available languages in _data/sitetext.yml
 

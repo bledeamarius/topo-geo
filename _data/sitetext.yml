@@ -93,7 +93,7 @@ en: &DEFAULT_EN
     list:
       - title: "google"
         url: https://google.com
-        logo: assets/img/clients/google.png
+        logo: assets/img/logo-alb.png
       - title: "designmodo"
         url: https://github.com/raviriley/agency-jekyll-theme
         logo: assets/img/clients/designmodo.jpg
