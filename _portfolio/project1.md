@@ -6,7 +6,7 @@ additional_images:
   - assets/img/portfolio/Plan-de-situatie/1-Plan-de-situatie-Chisineu-Cris2.jpg
   - assets/img/portfolio/Plan-de-situatie/1-Plan-de-situatie-Chisineu-Cris1.jpg
   - assets/img/portfolio/Plan-de-situatie/1-Plan-de-situatie-Chisineu-Cris3.jpg
-alt: Shirts on a hanger
+
 
 caption:
   title: Plan de situatie
